@@ -6,5 +6,4 @@ INSERT INTO Student VALUES (5, 'Anirban', 22, 'MCA', 80, 68, 63, '15-sep-1994');
 INSERT INTO Student VALUES (6, 'Kumkum', 21, 'BCA', 72, 54.5, 60, '08-feb-1995');
 INSERT INTO Student VALUES (7, 'Suman', 21, 'BCA', 91.5, 32, 61, '10-mar-1994');
 INSERT INTO Student VALUES (8, 'Rohit', 22, 'MSc', 85, 76, 92, '19-apr-1992');
-
 COMMIT;
